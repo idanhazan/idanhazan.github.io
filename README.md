@@ -1,33 +1,30 @@
-# Idan Hazan - Senior Software Engineer
+# Idan Hazan
 
-With over a decade of experience in software development, I am a dedicated and detail-oriented software engineer specializing in creating scalable, efficient solutions. My career is marked by a passion for problem-solving and a commitment to high-quality code.
+### Software Engineer
 
-## Expertise
+| ![Idan Hazan](https://images.weserv.nl/?url=github.com/idanhazan.png&w=140&h=140&fit=cover&mask=circle) | Specializing in optimization and architecture. I simplify complex systems into fast, scalable, maintainable solutions, accelerated by AI. |
+|---|---|
 
-### Advanced Problem Decomposition
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDBDMy41OCAwIDAgMy41OCAwIDhjMCAzLjU0IDIuMjkgNi41MyA1LjQ3IDcuNTkuNC4wNy41NS0uMTcuNTUtLjM4IDAtLjE5LS4wMS0uODItLjAxLTEuNDktMi4wMS4zNy0yLjUzLS40OS0yLjY5LS45NC0uMDktLjIzLS40OC0uOTQtLjgyLTEuMTMtLjI4LS4xNS0uNjgtLjUyLS4wMS0uNTMuNjMtLjAxIDEuMDguNTggMS4yMy44Mi43MiAxLjIxIDEuODcuODcgMi4zMy42Ni4wNy0uNTIuMjgtLjg3LjUxLTEuMDctMS43OC0uMi0zLjY0LS44OS0zLjY0LTMuOTUgMC0uODcuMzEtMS41OS44Mi0yLjE1LS4wOC0uMi0uMzYtMS4wMi4wOC0yLjEyIDAgMCAuNjctLjIxIDIuMi44Mi42NC0uMTggMS4zMi0uMjcgMi0uMjcuNjggMCAxLjM2LjA5IDIgLjI3IDEuNTMtMS4wNCAyLjItLjgyIDIuMi0uODIuNDQgMS4xLjE2IDEuOTIuMDggMi4xMi41MS41Ni44MiAxLjI3LjgyIDIuMTUgMCAzLjA3LTEuODcgMy43NS0zLjY1IDMuOTUuMjkuMjUuNTQuNzMuNTQgMS40OCAwIDEuMDctLjAxIDEuOTMtLjAxIDIuMiAwIC4yMS4xNS40Ni41NS4zOEE4LjAxMyA4LjAxMyAwIDAwMTYgOGMwLTQuNDItMy41OC04LTgtOHoiLz48L3N2Zz4%3D)](https://github.com/idanhazan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/idanhazan)
 
-I am skilled in breaking down complex problems into manageable components. This approach allows me to design integrated solutions that address each aspect of the overarching challenge effectively.
+---
 
-### End-to-End Software Development
+## 🎯 Expertise
 
-From initial conceptualization to final implementation, I oversee every phase of the software development lifecycle. My focus is on delivering comprehensive and robust solutions through meticulous planning and execution.
+- ⚡ **Optimization:** finding and removing bottlenecks in code, databases, and infrastructure.
+- 🏗️ **Architecture:** designing systems that scale cleanly and stay easy to maintain.
+- 🧩 **Simplicity:** turning tangled, complex systems into clear, understandable designs.
+- 🤖 **AI:** using AI to accelerate development, analysis, and delivery.
 
-### Code Performance Enhancement
+## 💻 Languages
 
-I specialize in optimizing existing codebases to enhance performance. My goal is to refine code for faster execution, better resource utilization, and overall improved efficiency.
+`Rust` `Go` `Python` `TypeScript` `SQL`
 
-## Python Proficiency
+## 🛠️ Technologies
 
-Python is a key component of my skill set, known for its intuitive syntax and comprehensive libraries. Its versatility and efficiency make it an invaluable tool for addressing a wide range of programming challenges and developing effective solutions.
-
-## Notable Projects
-
-Here are a few of the packages I’ve developed:
-
-- **[functrace](https://github.com/idanhazan/functrace)**: A Python library for detailed function call tracing. It provides logging and performance tracking to help monitor execution, measure timing, and debug effectively.
-- **[parallelism](https://github.com/idanhazan/parallelism)**: A library for advanced task scheduling in Python, facilitating efficient execution of parallel and concurrent tasks with flexible configuration options.
-- **[utilitools](https://github.com/idanhazan/utilitools)**: A collection of utility functions and tools for Python development, offering various helpers to streamline common programming tasks.
-
-## Connect and Collaborate
-
-For professional networking and discussions on technology trends, connect on [LinkedIn](https://www.linkedin.com/in/idanhazan).
+| Layer | Technologies |
+|---|---|
+| **Infrastructure** | `Linux` `Cloud` `Containers` `CI/CD` |
+| **Data** | `Databases` `Caching` `Message Queues` |
+| **Operations** | `Observability` |
+| **AI** | `AI / LLM tools` |
