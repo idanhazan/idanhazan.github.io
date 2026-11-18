@@ -54,7 +54,8 @@
     color: var(--muted); border-bottom: 1px solid var(--border);
     padding-bottom: 6px; margin: 0 0 16px;
   }
-  .focus { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+  .focus { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  @media (max-width: 560px) { .focus { grid-template-columns: 1fr; } }
   .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
   .card h3 { margin: 0 0 6px; font-size: 1.05rem; }
   .card p { margin: 0; color: var(--muted); font-size: .95rem; }
